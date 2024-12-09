@@ -3,7 +3,13 @@ Based on the instructions, I am assigned the even number (1 + 5 = 6) section for
  
 ## What Was Done
 ### Color Correction
+Color correction was added using the neutral LUT and a screenshot of the scene combined together in a photo editor. The combined images are then color graded in the photo editor, in my case, I set the color to have a little blueish green hue and added a warm yellow tone to it. The Setting are as shown below:
 
+![alt text](https://github.com/JL-40/CG-Exam-Practical/blob/main/_Images/ColorGradingProof.png?raw=true)
+
+
+
+![alt text]()
 ### Scrolling Texture
 
 
