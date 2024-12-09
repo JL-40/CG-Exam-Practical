@@ -8,6 +8,7 @@ Color correction was added using the neutral LUT and a screenshot of the scene c
 ![alt text](https://github.com/JL-40/CG-Exam-Practical/blob/main/_Images/ColorGradingProof.png?raw=true)
 
 The following is a diagram showing the general implementation process:
+
 ![alt text](https://github.com/JL-40/CG-Exam-Practical/blob/main/_Images/ColorCorrectionImplementation.drawio.png?raw=true)
 
 ### Scrolling Texture
