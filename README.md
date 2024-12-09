@@ -17,8 +17,5 @@ Scrolling textures based on the lecture notes were not working so I use a variat
 ### Toonshader w/ Textures
 The toon shader from the lecture notes was modifed to allow for the application of textures on the material while the texture is being affected by the base color of the material. This was done by modifying the surface shader to apply the main texture with the base color as part of the albedo. This was done so allow for more textures to be applied to models so that they have more texture than a flat color coat on an object, for example, by applying a scale-like texture onto Yoshi's head, I can make Yoshi seem more like a scaley dinosaur.
 
-### Shader 2
-
-
 ## Credits
 I used the skybox materials from [Skybox Series Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633) to enhance the background of the project. I take no credits for these assets, I simply copied the folder from my project holding all in class shaders.
