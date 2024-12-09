@@ -12,3 +12,6 @@ The toon shader from the lecture notes was modifed to allow for the application 
 ### Shader 2
 
 ## Diagram (Color Correction)
+
+## Credits
+I used the skybox materials from [Skybox Series Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633) to enhance the background of the project. I take no credits for these assets, I simply copied the folder from my project holding all in class shaders.
